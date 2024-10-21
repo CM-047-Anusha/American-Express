@@ -16,6 +16,6 @@ Model Evaluation: Assessing the model's performance using accuracy, precision, r
 Technologies Used:
 
 Python (NumPy, pandas, Matplotlib, Seaborn, TensorFlow/Keras)
-Jupyter Notebook
+Google Colab
 Deep Learning (ANN)
 Data visualization tools for EDA
